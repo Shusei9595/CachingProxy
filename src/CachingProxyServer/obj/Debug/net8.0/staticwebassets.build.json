@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IbDKEK5lcjI0VrZeikRmGcnt3sSYwq+HkTxZCn5ftI8=",
+  "Source": "CachingProxyServer",
+  "BasePath": "_content/CachingProxyServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
